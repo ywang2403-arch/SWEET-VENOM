@@ -1,5 +1,5 @@
 # SWEET-VENOM （甘之如饴）
-> Unity｜2D Pixel Platform Adventure
+> Twine 2｜Word Adventure
 
 ## 📖 项目简介（Project Overview）
 
