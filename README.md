@@ -1,5 +1,6 @@
 # SWEET-VENOM （甘之如饴）
 > Twine 2｜文字互动冒险游戏
+> 游戏下载（需要VPN）：https://wangdacan.itch.io/sweet-venom
 
 ## 📖 项目简介（Project Overview）
 
