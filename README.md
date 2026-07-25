@@ -1,5 +1,5 @@
 # SWEET-VENOM （甘之如饴）
-> Twine 2｜Word Adventure
+> Twine 2｜文字互动冒险游戏
 
 ## 📖 项目简介（Project Overview）
 
