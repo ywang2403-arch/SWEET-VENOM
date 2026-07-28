@@ -101,7 +101,15 @@ Sweet Venom（甘之如饴） 是一款基于 Twine 2 开发的互动叙事游�
 
 <img width="328" height="246" alt="Untitled - July 25, 2026 at 15 02 30 (6)" src="https://github.com/user-attachments/assets/2af41db5-8128-482c-9944-701341454cff" />
 
+---
 
+## 🎮 游戏实机演示视频
+* 哔哩哔哩：https://www.bilibili.com/video/BV1RW3B68Evx/
+
+---
+
+## 游戏下载链接：
+* 下载地址（需要VPN）：https://wangdacan.itch.io/sweet-venom
 
 ---
 
